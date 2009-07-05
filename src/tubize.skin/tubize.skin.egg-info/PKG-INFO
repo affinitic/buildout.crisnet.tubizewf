@@ -1,0 +1,27 @@
+Metadata-Version: 1.0
+Name: tubize.skin
+Version: 1.0dev
+Summary: Tubize Skin
+Home-page: http://www.amte.be
+Author: Affinitic Sprl
+Author-email: info@affinitic.be
+License: GPL
+Description: Introduction
+        ============
+        
+        
+        
+        Changelog
+        =========
+        
+        1.0 - Unreleased
+        ----------------
+        
+        * Initial release
+        
+        
+Keywords: tubize skin theme affinitic
+Platform: UNKNOWN
+Classifier: Framework :: Plone
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules

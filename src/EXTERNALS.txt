@@ -1,1 +1,1 @@
-TubizeWf http://svn.affinitic.be/plone/crisnet/TubizeWf/
+TubizeWf http://svn.affinitic.be/plone/crisnet/tubize.skin/trunk

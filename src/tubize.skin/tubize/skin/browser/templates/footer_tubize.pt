@@ -1,0 +1,12 @@
+<div id="footer-tubize" 
+     metal:define-macro="portal_footer" 
+     i18n:domain="plone">
+
+AMTE<br>
+Homepage : <a href = "http://www.amte.be">http://www.amte.be</a><br>
+E-mail : <a href="mailto:info@amte.be">info@amte.be</a><br>
+Copyright &copy; 2004 -
+<span tal:define="now modules/DateTime/DateTime"
+           tal:content="now/year"/>
+by <a href = "http://www.affinitic.be" target=_blank>AFFINITIC sprl</a>
+</div>
